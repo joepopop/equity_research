@@ -1,8 +1,7 @@
 # equity_research
 
-<img src="https://user-images.githubusercontent.com/102631336/235540916-913fa77e-3751-435d-9982-bd579476115b.png" width="500" />
-<img src="https://user-images.githubusercontent.com/102631336/235540797-fd02bca9-2215-4386-9fd4-332b24dd8040.png" width="500" />
-
+td><img src="Charts/Unknown" width="400"></td>
+td><img src="Charts/Unknown1" width="400"></td>
 
 <p float="left">
   <img src="https://user-images.githubusercontent.com/102631336/235540673-d843a455-8fc7-48ec-84ed-84844c2956aa.png" width="500" />
