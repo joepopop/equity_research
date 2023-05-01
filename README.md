@@ -1,4 +1,4 @@
-# equity_research
+# Independent Equity Research
 
 <p float="left">
   <img src="Charts/Unknown" width="400">
