@@ -1,20 +1,22 @@
 # equity_research
 
-<img src="Charts/Unknown" width="400">
-<img width="381" alt="image" src="https://user-images.githubusercontent.com/102631336/235542019-0c661bf4-ce9c-44da-9eb5-96abd3273fac.png">
-
+<p float="left">
+  <img src="Charts/Unknown" width="400">
+  <img width="381" alt="image" src="https://user-images.githubusercontent.com/102631336/235542019-0c661bf4-ce9c-44da-9eb5-96abd3273fac.png">
+</p>
+  
 <p float="left">
   <img src="Charts/Unknown-2" width="400">
-  <img src="Charts/Unknown-3" width="400">
-</p>
-
-<p float="left">
-  <img src="Charts/Unknown-4" width="400">
   <img src="Charts/Unknown-5" width="400">
 </p>
 
 <p float="left">
+  <img src="Charts/Unknown-3" width="400">
   <img src="Charts/Unknown-6" width="400">
+</p>
+
+<p float="left">
+  <img src="Charts/Unknown-4" width="400">
   <img src="Charts/Unknown-7" width="400">
 </p>
 
