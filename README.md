@@ -2,7 +2,7 @@
 
 <p float="left">
   <img src="Charts/Unknown" width="400">
-  <img width="381" alt="image" src="https://user-images.githubusercontent.com/102631336/235542019-0c661bf4-ce9c-44da-9eb5-96abd3273fac.png">
+  <img width="381" alt="image" src="https://user-images.githubusercontent.com/102631336/236370864-9a87f7a0-5a96-4a47-a42a-349f4ec97de5.png">
 </p>
   
 <p float="left">
